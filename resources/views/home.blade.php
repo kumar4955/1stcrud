@@ -9,6 +9,7 @@
         <title>CRUD</title>
 
 <body>
+//Creating the form
 <form action ="" method="POST">
     @csrf  
 
